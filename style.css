@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: rgba(168, 117, 202, 0.244);
+  background-color: #809671;
 }
 
 .navbar-collapse {
@@ -22,16 +22,17 @@ section {
 h1 {
   font-size: 2.5rem;
   font-family: 'Rubik Dirt', cursive;
+  color: #725c3a;
 }
 
 .seccion-oscura {
   color: white;
-  background-color: #432e5a;
+  background-color: #455e35;
 }
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: rgb(248, 248, 217);
 }
 
 .seccion-titulo {
@@ -65,7 +66,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color:  rgb(248, 248, 217);
   min-height: 450px;
   text-align: center;
 }
@@ -115,13 +116,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #2d1b32;
+  background-color: #725c3a;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: rgb(243, 243, 189);
+  background-color: #9db73d;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -195,7 +196,7 @@ h1 {
 }
 
 .overlay i {
-  color: black;
+  color: #725c3a;
   font-size: 60px;
   margin: 10px;
 }
@@ -346,8 +347,8 @@ footer {
 }
 
 .iconos-redes-sociales a:hover {
-  background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  background-color: rgb(248, 248, 217);
+  border: 2px solid #725c3a;
 }
 
 .iconos-redes-sociales a:hover i {
@@ -397,5 +398,5 @@ footer {
 
 .text-bg-verde-oliva{
   background-color:#9db73d;
-  color:rgb(243, 243, 189)
+  color:rgb(243, 243, 189);
 }
